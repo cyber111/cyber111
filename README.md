@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**cyber111/cyber111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Pratik Jain, a passionate Flutter developer who loves coding! 💻❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 💫
+
+🚀 I'm always exploring new technologies and building exciting projects.
+📱 Currently, I'm focusing on Flutter app development to create beautiful and functional mobile applications.
+🌟 Besides coding, I enjoy reading, hiking, and exploring the great outdoors.
+
+Let's connect and create amazing things together! 🌈✨
+
+## Tech Stack
+
+
+![Flutter-FFD43B](https://github.com/cyber111/cyber111/assets/28974382/0d7957f1-7b33-4269-811d-68e037fbfed2) 
