@@ -27,15 +27,6 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a Flutter application developer from <b>India</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
 
 <p align="center">
  <a href="https://cyber111.com" target="blank">
