@@ -27,7 +27,7 @@
 
 
 <p align="center">
- <a href="[https://cyber111.github.io/](https://cyber111.github.io/Portfolio/)" target="blank">
+ <a href="https://cyber111.github.io/Portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="cyber111" />
  </a>
  <a href="https://www.linkedin.com/in/pratik-jain-00610b147/" target="_blank">
